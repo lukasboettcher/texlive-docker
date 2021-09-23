@@ -1,7 +1,7 @@
 # texlive-docker
 A simple Docker Image that can be used to compile latex through the vscode extension latex-workshop.
 
-[![Docker](https://github.com/lukasboettcher/texlive-docker/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/lukasboettcher/texlive-docker/actions/workflows/docker-publish.yml)
+[![Docker](https://github.com/lukasboettcher/texlive-docker/actions/workflows/docker-publish.yml/badge.svg?branch=main)](https://github.com/lukasboettcher/texlive-docker/actions/workflows/docker-publish.yml)
 
 To use, add
 
